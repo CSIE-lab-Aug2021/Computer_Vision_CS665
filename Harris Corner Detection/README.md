@@ -10,8 +10,7 @@
 
 With the Harris corner detector described in slides (p.79), mark the detected corners on the image.
 
-<img style="float: left;" src="/1.PNG" width="60%">
-#<img style="float: left;" src="image/Olive.jpg" width="90%">
+<img style="float: left;" src="Harris Corner Detection/1.PNG" width="60%">
 
 
 ### A. Functions:
