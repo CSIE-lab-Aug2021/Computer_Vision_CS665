@@ -9,6 +9,7 @@
 ## Part 1. Harris Corner Detection
 
 With the Harris corner detector described in slides (p.79), mark the detected corners on the image.
+
 <img style="float: left;" src="1.PNG" width="60%">
 
 
