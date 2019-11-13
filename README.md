@@ -6,4 +6,5 @@
 * Harris Corner Detection
 * Image Sensing Pipeline
 * Homography
+* Camera Calibration
 
