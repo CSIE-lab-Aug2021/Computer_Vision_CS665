@@ -7,4 +7,6 @@
 * Image Sensing Pipeline
 * Homography
 * Camera Calibration
+* Deep Learning
+* Transfer Learning and Semantic Segmentation
 
