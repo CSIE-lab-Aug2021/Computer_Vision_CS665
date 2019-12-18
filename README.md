@@ -1,7 +1,7 @@
 
 
 # CS665 Computer Vision 
-## This is project of Computer Vision
+## This is project of Computer Vision at NTHU
 
 * Harris Corner Detection
 * Image Sensing Pipeline
